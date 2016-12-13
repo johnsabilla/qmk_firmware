@@ -1,7 +1,7 @@
 // This is the canonical layout file for the Quantum project. If you want to add another keyboard,
 // this is the style you want to emulate.
 
-#include "kc60.h"
+#include "campine.h"
 
 const uint16_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
   [0] = KEYMAP( /* Basic QWERTY */
